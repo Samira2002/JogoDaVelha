@@ -1,6 +1,5 @@
 
-# Título do Projeto
-
+# Jogo da velha
 Um projeto básico de jogo da velha, utilizando a linguagem de programção Java, tendo todas as rewgras básicas do jogo original.
 
 Esse projeto foi criado com o intuito de aprimorar o uso de vetores e matrizes, e se divertir um pouco.
